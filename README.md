@@ -1,5 +1,5 @@
 
-# Hi there, I'm Biola 👋
+# Hi there, I'm Biola 
 
 ## About Me
 i'm Awoyemi Abiola, a frontend engineer with 4
