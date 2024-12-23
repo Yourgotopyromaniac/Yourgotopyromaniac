@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**Yourgotopyromaniac/Yourgotopyromaniac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Biola 👋
 
-Here are some ideas to get you started:
+## About Me
+i'm Awoyemi Abiola, a frontend engineer with 4
+years of experience
+building higly perfomant,
+accesible and responsive
+web applications, and I make it look easy.
+Check out my [Portfolio](https://portfolio-v2-yourgotopyromaniacs-projects.vercel.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm up to
+- 🔭 I’m currently cloning complex user interfaces to demonstrate my skills with UI development and data handling, it's all hush-hush right now until I'm done, but more information on these can be made available on request.
+
+## Skills
+
+- Languages: JavaScript, TypeScript
+- Frameworks: React, Next.js
+- State management: Redux, Context, Jotai, Zustand
+- Styling: Tailwind CSS, Styled Components
+- Animation: Greensock Animation Platform, Framer Motion
+- Component Libraries: Chakra UI, Material UI, Headless UI, ShadCn
+- And pretty much everything else...
+
+## Fun Fact
+- 🎨 I can solve a Rubik's cube at an average of 25 seconds and have solved it under 15 seconds on a few occasions.
+
+## Get in touch
+- 📧 Email: [cipherx809@gmail.com](mailto:cipherx809@gmail.com)
+- 🐦 Twitter: [@Biola_E](https://x.com/biola_e)
