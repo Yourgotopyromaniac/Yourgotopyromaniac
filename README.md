@@ -20,7 +20,7 @@ Check out my [Portfolio](https://portfolio-v2-yourgotopyromaniacs-projects.verce
 - Styling: Tailwind CSS, Styled Components
 - Animation: Greensock Animation Platform, Framer Motion
 - Component Libraries: Chakra UI, Material UI, Headless UI, ShadCn
-- And pretty much everything else...
+- And pretty much everything else, No really :)
 
   ## Fun Fact
 - 🎨 I can solve a Rubik's cube at an average of 25 seconds and have solved it under 15 seconds on a few occasions.
